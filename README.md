@@ -5,3 +5,6 @@
 - 📫 How to reach me? Find me on [my website](https://wutcnew.web.app)
 - 😄 Pronouns: Somewhere between walmarts bag and A320-neo
 - ⚡ Fun fact: It works fine on my computer.
+
+<img src="https://github-readme-stats-wegfan.vercel.app/api?username=lsjle&show_icons=true&count_private=true&include_all_commits=true" alt="lsjle's statics">
+<img src="https://profile-counter.glitch.me/impartailjust/count.svg" />
